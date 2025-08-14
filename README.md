@@ -69,10 +69,14 @@ pyautogui.click(1475, 975)
 
 ### 2. Find Correct Coordinates
 
-Use the included coordinate helper:
+Use coordinate helper by making another pytho file and copy paste following for it:
 
 ```bash
-python coordinate_helper.py
+import pyautogui
+
+while True:
+    a = pyautogui.position()
+    print(a)
 ```
 
 Follow the prompts to find the correct coordinates for your screen setup.

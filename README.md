@@ -125,9 +125,6 @@ ChatBot/
 ├── bot.py                 # Main bot script
 ├── memory.json           # Conversation memory storage
 ├── memory_manager.py     # Memory management utility
-├── coordinate_helper.py  # Screen coordinate finder
-├── test_env.py          # API testing script
-├── simple_copy_test.py  # Clipboard testing script
 ├── .env                 # Environment variables (create from .env.example)
 ├── .env.example         # Environment template
 ├── .gitignore           # Git ignore rules

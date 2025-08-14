@@ -128,6 +128,8 @@ ChatBot/
 ├── .env                 # Environment variables (create from .env.example)
 ├── .env.example         # Environment template
 ├── .gitignore           # Git ignore rules
+├── config_checker.py    # To check configuration is right.
+├── LICENSE              # MIT License
 ├── requirements.txt     # Python dependencies
 └── README.md           # This file
 ```

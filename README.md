@@ -69,7 +69,7 @@ pyautogui.click(1475, 975)
 
 ### 2. Find Correct Coordinates
 
-Use coordinate helper by making another pytho file and copy paste following for it:
+Use coordinate helper by making another python file and copy paste following for it:
 
 ```bash
 import pyautogui

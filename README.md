@@ -194,13 +194,13 @@ Modify the prompt in `bot.py` around line 131 to change how the bot responds.
 
 1. **No text copied**
    - Check if coordinates are correct for your screen
-   - Run `coordinate_helper.py` to find correct positions
+   - Run `coordinate_helper` to find correct positions
    - Ensure chat window is visible and active
 
 2. **API Errors**
    - Verify your Gemini API key in `.env`
    - Check if you have API quota remaining
-   - Run `test_env.py` to test API connection
+
 
 3. **Wrong sender detection**
    - Check the exact name format in your chat
